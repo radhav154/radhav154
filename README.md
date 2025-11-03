@@ -32,8 +32,6 @@
 **Frontend & Tools:**
 - HTML5, CSS3, JavaScript (ES6+), React, Ajax
 - Git, Azure, Docker, VS Code, Jupyter
-- ServiceNow, CI/CD Pipelines
-
 ---
 
 ## 💼 Professional Projects & Implementations
@@ -101,7 +99,7 @@
 - Created intelligent task scheduling and prioritization system
 - Implemented automated reporting and insight generation
 
-**Technologies**: Python, LangChain, Azure, REST APIs, PostgreSQL
+**Technologies**: Python, LangChain, REST APIs, PostgreSQL
 
 **Impact**: Reduced manual processing time by 60%
 
