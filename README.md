@@ -1,193 +1,146 @@
-# Hi there, I'm Radha Vedantam 👋
+<div align="center">
 
-## AI/ML Engineer | .NET Developer | Data Science Enthusiast
+<!-- Animated Typing Header -->
+<img src="https://demolab.com" alt="Typing SVG" />
 
-🚀 Building intelligent systems that solve real-world problems through AI/ML and scalable software solutions.
+### 🚀 Transforming Complex Enterprise Workflows into Intelligent, Scalable Solutions
+
+<!-- Social & Profile View Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/radhavedantam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vedsr154@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/radhav154">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+</div>
+
+---
 
 ### 👨‍💻 About Me
 
-- 🔭 **AI/ML Engineer** at BigDatamatica Solutions, Hyderabad
-- 🤖 Specializing in **RAG Chatbots**, **Agentic AI**, and **Predictive Analytics**
-- 💼 **4+ years** of professional software development experience
-- 🌱 Exploring **Quantum AI** and autonomous agent frameworks
-- 🎓 B-Tech in Electronics & Communication | Postgraduate in Data Science
-- 📫 **vedsr154@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-**AI/ML & Data Science:**
-- Python, Pandas, NumPy, Scikit-learn, PyTorch
-- Machine Learning (Supervised/Unsupervised/Deep Learning)
-- Natural Language Processing (NLP), Transformers
-- RAG Chatbots, Agentic AI
-- Power BI, Data Visualization
-
-**Backend & Frameworks:**
-- C#.NET, ASP.NET, MVC
-- FastAPI, Flask
-- SQL Server, PostgreSQL, Oracle, Redis
-- RESTful APIs
-
-**Frontend & Tools:**
-- HTML5, CSS3, JavaScript, React, Ajax
-- Git, Azure, Docker, VS Code, Jupyter
-
----
-
-## 💼 Professional Experience & Projects
-
-### 🏢 BigDatamatica Solutions (Nov 2024 - Present)
-**AI/ML Engineer** | Hyderabad, India
-
-#### AI-Powered UCDP Platform (NASSCOM)
-Led development of enterprise AI use case discovery platform with intelligent search and role-based security.
-
-**Key Deliverables:**
-- Intelligent search system using NLP and PyTorch (90% accuracy)
-- Agentic AI recommendation engine (60% engagement increase)
-- RBAC security with JWT authentication
-- Multi-sector navigation across 20+ industries
-- Performance optimization (70% faster load times)
-- Responsive UI with 4.7/5.0 user satisfaction
-
-**Tech Stack:** Python, PyTorch, FastAPI, PostgreSQL, Redis, JavaScript
-
-#### RAG-Based Enterprise Chatbots
-Developed context-aware chatbots with iframe embedding for enterprise deployment.
-
-**Key Features:**
-- Retrieval-augmented generation architecture
-- LangChain and OpenAI API integration
-- Conversation history and context management
-- Admin dashboard for monitoring
-
-**Tech Stack:** Python, LangChain, OpenAI API, Vector Databases
-
-#### OCR Document Processing System
-Built multi-format document conversion system using Tesseract and AI.
-
-**Key Features:**
-- Text extraction from images, PDFs, scanned documents
-- Document classification using NLP
-- Batch processing pipeline
-- Quality validation and error handling
-
-**Tech Stack:** Python, Tesseract, OpenCV, FastAPI
-
-**Impact:** Saved 100+ hours/week in manual processing
-
-#### Agentic AI Marketing Automation
-Created autonomous marketing platform with workflow automation and CRM integration.
-
-**Key Features:**
-- Autonomous agents for data ingestion and analysis
-- Multi-agent orchestration framework
-- Intelligent task scheduling
-- Automated reporting
-
-**Tech Stack:** Python, LangChain, Azure, PostgreSQL
-
-**Impact:** 60% reduction in manual processing time
-
----
-
-### 💼 Previous Professional Experience
-
-#### Karvy Computershare Pvt Ltd (Sep 2008 - Mar 2009)
-**Executive** | Hyderabad, India
-
-- Developed web-based applications for mutual fund distributors
-- Built internal billing systems with role-based access
-- Implemented multilayer architecture with Ajax and SQL Server
-
-**Tech Stack:** ASP.NET, C#, SQL Server, Ajax
-
-#### SK Softlabs (Apr 2007 - Apr 2008)
-**Associate Engineer** | Hyderabad, India
-
-- Developed and maintained intranet business applications
-- Worked with ASP.NET MVC and database integration
-
-**Tech Stack:** ASP.NET MVC, C#, SQL Server
-
-#### SSR Infocom Pvt Ltd (Jun 2006 - May 2007)
-**Software Programmer** | Hyderabad, India
-
-- Designed 3-tier .NET framework applications
-- Created technical documentation and participated in requirement gathering
-
-**Tech Stack:** .NET Framework, C#, SQL Server
-
----
-
-## 📊 Technical Achievements
-
-| Area | Achievement |
-|------|-------------|
-| **AI/ML** | Built RAG chatbots, predictive models, agentic AI systems |
-| **Search Systems** | Implemented NLP-based search with 90% accuracy |
-| **Performance** | Optimized systems for 70% faster load times |
-| **Automation** | Reduced manual processing by 60-90% across projects |
-| **Security** | Implemented enterprise RBAC with JWT authentication |
-| **Scale** | Delivered solutions for national organizations (NASSCOM) |
-
----
-
-## 🎓 Education & Certifications
-
-- **Postgraduate Program in Data Science** - Simplilearn (6 months)
-- **B-Tech in Electronics & Communication Engineering** - Sridevi Women's Engineering College, JNTU Hyderabad
-
----
-
-## 📈 GitHub Stats
-
-![Radha's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhav154&show_icons=true&theme=radical&count_private=true&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radhav154&layout=compact&theme=radical)
-
----
-
-## 🚀 Current Focus
-
-- Building autonomous AI agents for business automation
-- Implementing advanced RAG architectures with LangChain
-- Exploring hybrid AI-Quantum computing applications
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhavedantam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedsr154@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhav154)
-
----
-
-## 💡 What I Offer
-
-```python
-expertise = {
-    "AI/ML": ["RAG Systems", "Agentic AI", "NLP", "Predictive Models"],
-    "Backend": ["Python", "FastAPI", "Flask", "C#.NET", "ASP.NET"],
-    "Databases": ["PostgreSQL", "SQL Server", "Redis", "Vector DBs"],
-    "Cloud": ["Azure", "Docker", "Git"],
-    "Impact": "Delivered measurable improvements in speed, accuracy, and efficiency"
-}
+```yaml
+Role: AI/ML Engineer @ BigDataMatica Solutions (Hyderabad, India)
+Experience: 4+ Years in Enterprise AI, Full-Stack & .NET Development
+Specialties:
+  - On-Premise LLMs (Ollama) & Privacy-First AI (DPDP Act Compliance)
+  - Multi-Agent Systems, RAG Architectures & Predictive Analytics
+  - Non-Invasive Legacy ERP Automation (SQL Server + FastAPI + React)
+Education:
+  - Postgraduate Program in Data Science (Simplilearn)
+  - B.Tech in Electronics & Communication Engineering (JNTU Hyderabad)
 ```
 
 ---
 
+### 🛠️ Colorful Tech Stack
+
+#### 🤖 AI, LLMs & Data Science
+![Python](https://shields.io)
+![PyTorch](https://shields.io)
+![TensorFlow](https://shields.io)
+![Scikit-Learn](https://shields.io)
+![Ollama](https://shields.io)
+![LangChain](https://shields.io)
+![OpenAI](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+
+#### ⚙️ Backend, Web & Enterprise Frameworks
+![FastAPI](https://shields.io)
+![React](https://shields.io)
+![TailwindCSS](https://shields.io)
+![Vite](https://shields.io)
+![C#](https://shields.io)
+![.NET](https://shields.io)
+![JavaScript](https://shields.io)
+
+#### 🗄️ Databases, Cloud & DevOps
+![Microsoft SQL Server](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Redis](https://shields.io)
+![Microsoft Azure](https://shields.io)
+![Docker](https://shields.io)
+![Power BI](https://shields.io)
+![Git](https://shields.io)
+
+---
+
+### 💼 Featured Enterprise Projects @ BigDataMatica Solutions
+
+#### 🏭 1. Citrus Workflow Manager (`LP_Workflow`) — *Jun 2026 – Present*
+> **Full-stack production workflow & AI automation platform for a label and packaging manufacturer**, sitting non-invasively on top of a legacy **SQL Server ERP**.
+
+* 🔒 **Privacy-First On-Premise AI:** Deployed local LLMs via **Ollama (Llama 3.2 / Gemma 3)** so zero customer data leaves local servers.
+* 🛡️ **DPDP Act Compliance:** Engineered a dedicated consent & audit database, automated PII masking prior to LLM calls, breach alerts, and governance logs.
+* 📧 **Automated Order Intake:** Integrated **Microsoft Outlook (Graph API)** to ingest customer emails into planning jobs and send automated replies.
+* 🔍 **Automated Prepress & OCR:** Built PDF/artwork validation (dimensions, color profiles, barcodes) using **PyMuPDF**, **pikepdf**, **Tesseract OCR**, and barcode decoding.
+* 📊 **ERP Costing & Live BI:** Automated Job Dockets/Tickets (JD/JT), die/plate orders, label cost quotes, and Financial Year (Apr–Mar) **Recharts** dashboards combining **SQL Server** (`pyodbc`) and **PostgreSQL**.
+* **Stack:** `Python` `FastAPI` `React 18` `Tailwind` `Zustand` `Ollama` `SQL Server` `PostgreSQL` `Redis` `Docker`
+
+---
+
+#### 🛒 2. Command Center — TRENT Limited (Autonomous Retail Operations)
+> **Multi-agent AI system** automating retail pricing, inventory replenishment, and real-time operational monitoring.
+
+* 🤖 Orchestrated specialized agents (*Inventory Management Specialist* & *Dynamic Pricing Strategist*) with human-in-the-loop anomaly detection.
+* 📈 Built real-time ML model monitoring dashboards and predictive demand forecasting models driving measurable inventory turnover and revenue growth.
+* **Stack:** `Python` `Multi-Agent AI` `Predictive Analytics` `MLOps` `Real-Time Dashboards`
+
+---
+
+#### 🌐 3. AI-Powered UCDP Platform — NASSCOM
+> **Enterprise AI use-case discovery platform** featuring intelligent search, contextual recommendations, and multi-sector RBAC security.
+
+* 🎯 **90% Search Accuracy** using NLP & PyTorch embeddings; **60% engagement boost** via an Agentic AI recommendation engine.
+* ⚡ **70% faster load times** across 20+ industry sectors with JWT authentication and a **4.7/5.0** user satisfaction rating.
+* **Stack:** `Python` `PyTorch` `FastAPI` `PostgreSQL` `Redis` `JavaScript`
+
+---
+
+<details>
+<summary><b>📂 Click to view more projects & earlier experience (RAG Chatbots, OCR, Marketing AI, .NET)</b></summary>
+<br>
+
+* **💬 RAG-Based Enterprise Chatbots:** Built embeddable iframe chatbots with vector database semantic search, LangChain orchestration, and admin monitoring dashboards (`Python`, `LangChain`, `ChromaDB`, `OpenAI API`, `FastAPI`).
+* **📄 Multi-Format OCR Pipeline:** Automated text extraction and NLP classification across PDFs, images, and scans—saving **100+ hours/week** (`Python`, `Tesseract`, `OpenCV`, `FastAPI`).
+* **📣 Agentic AI Marketing Automation:** Built autonomous agents for CRM integration, audience segmentation, and Power BI reporting—cutting manual processing time by **60%** (`Python`, `LangChain`, `Azure`, `Power BI`).
+* **💻 Earlier Software Engineering Experience (2006 – 2009):**
+  * **Karvy Computershare Pvt. Ltd.** (*Executive*): Mutual fund web portals & multi-branch RBAC billing systems (`ASP.NET`, `C#`, `SQL Server`, `Ajax`).
+  * **SK Softlabs** (*Associate Engineer*): Intranet business apps & validation frameworks (`ASP.NET MVC`, `C#.NET`).
+  * **SSR Infocom Pvt. Ltd.** (*Software Programmer*): 3-tier enterprise `.NET` applications & Crystal Reports.
+
+</details>
+
+---
+
+### 📊 Impact & Achievements at a Glance
+
+| Domain | Key Highlights |
+| :--- | :--- |
+| **🔒 On-Premise & Compliant AI** | Deployed local **Ollama** LLMs with **DPDP Act** PII masking & audit governance on on-premise servers |
+| **⚡ Process Automation** | Reduced manual inspection & processing by **60–90%** (saving **100+ hrs/week** in document & prepress workflows) |
+| **🎯 Search & Recommendations** | Achieved **90% NLP search accuracy** and **60% higher user engagement** for NASSCOM's UCDP platform |
+| **🚀 System Performance** | Optimized enterprise APIs and SQL queries for **70% faster load times** and high availability |
+
+---
+
+### 📈 GitHub Analytics
+
 <div align="center">
+  <img height="180em" src="https://vercel.app" alt="Radha's GitHub Stats" />
+  <img height="180em" src="https://vercel.app" alt="Most Used Languages" />
+</div>
 
-### 💬 "Transforming complex problems into intelligent, scalable solutions"
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=radhav154&color=blueviolet)
-
-**Available for AI/ML projects and technical collaborations**
-
-⭐️ From [radhav154](https://github.com/radhav154)
-
+<div align="center">
+  <b>💬 Open to AI/ML Engineering, Multi-Agent Architecture, and Enterprise Automation collaborations!</b><br>
+  <sub>⭐️ Crafted by Radha Vedantam</sub>
 </div>
